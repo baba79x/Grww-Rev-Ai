@@ -135,4 +135,4 @@ Sensitive data is never persisted beyond required workflows.
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/grww-revai.git
+git clone https://github.com/baba79x/grww-rev-ai.git
